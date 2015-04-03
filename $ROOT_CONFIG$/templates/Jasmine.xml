@@ -1,0 +1,23 @@
+<templateSet group="Jasmine">
+  <template name="describe" value="describe('$NAME$', function() {&#10;    $CONTENT$&#10;});" description="Creates a describe block" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="beach" value="beforeEach(function() {&#10;    $CODE$&#10;});" description="Creates a beforeEach block" toReformat="false" toShortenFQNames="true">
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="it" value="it('$SPEC$', function(){&#10;    $CODE$&#10;});" description="Creates an it block" toReformat="false" toShortenFQNames="true">
+    <variable name="SPEC" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

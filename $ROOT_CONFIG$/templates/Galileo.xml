@@ -1,0 +1,15 @@
+<templateSet group="Galileo">
+  <template name="gldir" value="define([&#10;    'angular',&#10;    'galileo'&#10;], function(angular, galileo) {&#10;    'use strict';&#10;    var settings = { moduleName: &quot;$MODULENAME$&quot; };&#10;    &#10;    angular&#10;        .module(settings.moduleName, galileo.deps(arguments))&#10;        .directive('$DIRECTIVENAME$', function() {&#10;            return {&#10;                restrict: 'E',&#10;                scope: {},&#10;                templateUrl: '$TEMPLATEURL',&#10;                link: function(scope) {&#10;                    $ENTERCODE$&#10;                }&#10;            }&#10;        });&#10;        return settings;&#10;});" description="Directive boilerplate" toReformat="false" toShortenFQNames="true">
+    <variable name="MODULENAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DIRECTIVENAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ENTERCODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="gldirspec" value="define([&#10;    'galileo'&#10;], function(galileo) {&#10;    'use strict';&#10;    galileo.testDeps(arguments);&#10;});" description="Creates a boilerplate for a directive spec file" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

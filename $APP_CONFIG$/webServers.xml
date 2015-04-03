@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9c52804c-80cd-4a37-9e0f-37b44fe8d8d6" name="ftp.fedesilva.com" url="http://ftp.fedesilva.com">
+        <fileTransfer host="ftp.fedesilva.com" port="21" username="fedesilva@fedesilva.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
