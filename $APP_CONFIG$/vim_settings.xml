@@ -222,6 +222,9 @@
         <mark key="." line="4" column="42" />
         <mark key="[" line="4" column="43" />
       </file>
+      <file name="/AngularJS Fragment (home.html:279).js" timestamp="1428079815146">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/activityOverlord/config/models.js" timestamp="1424150617285">
         <mark key="]" line="19" column="23" />
         <mark key="^" line="19" column="21" />
@@ -627,10 +630,10 @@
         <mark key="." line="17" column="15" />
         <mark key="[" line="17" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/fsFrontend/app/templates/home.html" timestamp="1427858372618">
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/dev/fsFrontend/app/templates/home.html" timestamp="1428080123210">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/js/controllers/PostsController.js" timestamp="1427844375743">
         <mark key="'" line="5" column="0" />
@@ -941,7 +944,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBtaWRkbGUK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -973,7 +976,7 @@
         <text>content</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>&quot;</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -988,37 +991,37 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWhvc3RuYW1lOiAnKicsCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCW9uQ3JlYXRlU2VydmVyOiBmdW5jdGlvbihzZXJ2ZXIsIGNvbm5lY3QsIG9wdGlvbnMpIHsKCQkJCXZhciBpbyA9IHJlcXVpcmUoJ3NvY2tldC5pbycpLmxpc3RlbihzZXJ2ZXIpOwoJCQkJaW8uc29ja2V0cy5vbignY29ubmVjdGlvbicsIGZ1bmN0aW9uKHNvY2tldCkgewoJCQkJCS8vIGRvIHNvbWV0aGluZyB3aXRoIHNvY2tldAoJCQkJfSk7CgkJCX0K</text>
+        <text encoding="base64">CQk8aW1nIHNyYz0iaHR0cHM6Ly9kbC5kcm9wYm94dXNlcmNvbnRlbnQuY29tL3UvNDE1OTU5My9mZWRlc2lsdmEucG5nIiBhbHQ9IiIgY2xhc3M9Im1lIi8+CgkJCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBtaWRkbGUK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7CiAgICBvcHRpb25zOiB7CiAgICAgICAgY29uZmlnOiAnZXNsaW50Lmpzb24nCiAgICB9LAogICAgdGFyZ2V0OiBbJ2FwcC8hKGJ1aWxkfHZlbmRvcikvKiovKi5qcycsICdzcGVjLyoqLyouanMnXQp9Owo=</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>&quot;fede()</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="4">
-        <text>0</text>
+      <register name="5" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQk8aW1nIHNyYz0iaHR0cHM6Ly9kbC5kcm9wYm94dXNlcmNvbnRlbnQuY29tL3UvNDE1OTU5My9mZWRlc2lsdmEucG5nIiBhbHQ9IiIgY2xhc3M9Im1lIi8+CgkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoAction</text>
       </register>
-      <register name="9" type="4">
-        <text>u</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCXJldHVybiBtaWRkbGUK</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>ng-click=</text>
       </register>
     </registers>
     <search>
