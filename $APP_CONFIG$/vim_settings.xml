@@ -192,11 +192,11 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/fsFrontend/app/less/posts.less" timestamp="1427860378231">
-        <mark key="]" line="94" column="31" />
-        <mark key="^" line="94" column="31" />
-        <mark key="." line="94" column="31" />
-        <mark key="[" line="94" column="17" />
+      <file name="$USER_HOME$/dev/fsFrontend/app/less/posts.less" timestamp="1428242998100">
+        <mark key="]" line="112" column="10" />
+        <mark key="^" line="112" column="10" />
+        <mark key="." line="112" column="10" />
+        <mark key="[" line="112" column="11" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/js/appConfig.js" timestamp="1427844221449">
         <mark key="]" line="10" column="25" />
@@ -637,10 +637,10 @@
         <mark key="." line="17" column="0" />
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/fsFrontend/app/templates/home.html" timestamp="1428080123210">
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/dev/fsFrontend/app/templates/home.html" timestamp="1428243022754">
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/angular-cms/.bowerrc" timestamp="1427321212460">
         <mark key="]" line="1" column="25" />
@@ -723,11 +723,11 @@
         <mark key="." line="13" column="0" />
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/fsFrontend/app/less/main.less" timestamp="1427844365173">
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="13" column="5" />
-        <mark key="." line="1" column="0" />
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/dev/fsFrontend/app/less/main.less" timestamp="1428243116719">
+        <mark key="]" line="62" column="15" />
+        <mark key="^" line="62" column="15" />
+        <mark key="." line="62" column="15" />
+        <mark key="[" line="62" column="16" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/js/routes.js" timestamp="1427770921280">
         <mark key="'" line="32" column="16" />
@@ -937,8 +937,8 @@
       <jump line="18" column="1" filename="$USER_HOME$/git/galileo/Gruntfile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PHVsPgoJPGxpIG5nLXJlcGVhdD0icG9zdCBpbiBwb3N0cyI+CgkJe3twb3N0LnRpdGxlfX0KCTwvbGk+CjwvdWw+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -970,7 +970,7 @@
         <text>content</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>[</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -987,35 +987,35 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PHVsPgoJPGxpIG5nLXJlcGVhdD0icG9zdCBpbiBwb3N0cyI+CgkJe3twb3N0LnRpdGxlfX0KCTwvbGk+CjwvdWw+Cg==</text>
+      <register name="1" type="4">
+        <text>[</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7CiAgICBvcHRpb25zOiB7CiAgICAgICAgY29uZmlnOiAnZXNsaW50Lmpzb24nCiAgICB9LAogICAgdGFyZ2V0OiBbJ2FwcC8hKGJ1aWxkfHZlbmRvcikvKiovKi5qcycsICdzcGVjLyoqLyouanMnXQp9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8aW1nIHNyYz0iaHR0cHM6Ly9kbC5kcm9wYm94dXNlcmNvbnRlbnQuY29tL3UvNDE1OTU5My9mZWRlc2lsdmEucG5nIiBhbHQ9IiIgY2xhc3M9Im1lIi8+CgkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0icHJlc2VudGF0aW9uIj4KCTxpbWcgc3JjPSJodHRwczovL2RsLmRyb3Bib3h1c2VyY29udGVudC5jb20vdS80MTU5NTkzL2ZlZGVzaWx2YS5wbmciIGFsdD0iIiBjbGFzcz0ibWUiLz4KPC9kaXY+Cg==</text>
+        <text encoding="base64">PHVsPgoJPGxpIG5nLXJlcGVhdD0icG9zdCBpbiBwb3N0cyI+CgkJe3twb3N0LnRpdGxlfX0KCTwvbGk+CjwvdWw+Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PHA+e3twcmVzZW50YXRpb24ubWVzc2FnZX19PC9wPgo=</text>
+      <register name="4" type="4">
+        <text>{</text>
       </register>
       <register name=":" type="4">
         <text>action GotoAction</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8aW1nIHNyYz0iaHR0cHM6Ly9kbC5kcm9wYm94dXNlcmNvbnRlbnQuY29tL3UvNDE1OTU5My9mZWRlc2lsdmEucG5nIiBhbHQ9IiIgY2xhc3M9Im1lIi8+CgkJCg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0icHJlc2VudGF0aW9uIj4KCTxpbWcgc3JjPSJodHRwczovL2RsLmRyb3Bib3h1c2VyY29udGVudC5jb20vdS80MTU5NTkzL2ZlZGVzaWx2YS5wbmciIGFsdD0iIiBjbGFzcz0ibWUiLz4KPC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">PHA+e3twcmVzZW50YXRpb24ubWVzc2FnZX19PC9wPgo=</text>
       </register>
     </registers>
     <search>
