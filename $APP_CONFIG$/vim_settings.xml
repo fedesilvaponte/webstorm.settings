@@ -174,11 +174,10 @@
         <mark key="." line="7" column="24" />
         <mark key="[" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/fsFrontend/app/js/directives/social-feed/social-feed.html" timestamp="1427768649947">
-        <mark key="]" line="2" column="16" />
-        <mark key="^" line="2" column="16" />
-        <mark key="." line="2" column="16" />
-        <mark key="[" line="1" column="36" />
+      <file name="$USER_HOME$/dev/fsFrontend/app/js/directives/social-feed/social-feed.html" timestamp="1428243424840">
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/angular-cms/app/js/directives/navbar.js" timestamp="1427332148161">
         <mark key="]" line="6" column="27" />
@@ -417,11 +416,10 @@
         <mark key="." line="6" column="22" />
         <mark key="[" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/fsFrontend/app/js/directives/social-feed/social-feed.less" timestamp="1427768957827">
-        <mark key="]" line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="4" column="14" />
-        <mark key="[" line="3" column="19" />
+      <file name="$USER_HOME$/dev/fsFrontend/app/js/directives/social-feed/social-feed.less" timestamp="1428243397482">
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/index.html" timestamp="1427844346178">
         <mark key="'" line="10" column="19" />
@@ -673,13 +671,13 @@
         <mark key="." line="1" column="22" />
         <mark key="[" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/fsFrontend/app/js/directives/content/content.less" timestamp="1427861310311">
+      <file name="$USER_HOME$/dev/fsFrontend/app/js/directives/content/content.less" timestamp="1428243347280">
         <mark key="'" line="9" column="0" />
         <mark key="a" line="36" column="19" />
-        <mark key="]" line="48" column="20" />
+        <mark key="]" line="12" column="41" />
         <mark key="^" line="48" column="20" />
         <mark key="." line="48" column="20" />
-        <mark key="[" line="48" column="20" />
+        <mark key="[" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/angular-cms/app/less/main.less" timestamp="1427644690912">
         <mark key="'" line="86" column="50" />
@@ -723,11 +721,12 @@
         <mark key="." line="13" column="0" />
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/fsFrontend/app/less/main.less" timestamp="1427844365173">
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="13" column="5" />
-        <mark key="." line="1" column="0" />
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/dev/fsFrontend/app/less/main.less" timestamp="1428243407855">
+        <mark key="'" line="57" column="14" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="12" column="0" />
+        <mark key="[" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/js/routes.js" timestamp="1427770921280">
         <mark key="'" line="32" column="16" />
@@ -836,7 +835,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/dev/ember-tutorial/app/js/app.js" />
       <jump line="37" column="22" filename="$USER_HOME$/dev/ember-tutorial/app/js/app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ember-cms/app/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ember-cms/app/templates.js" />
@@ -936,10 +934,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/dev/maine/app/js/directives/audio/audio.less" />
       <jump line="62" column="24" filename="$USER_HOME$/dev/maine/app/less/main.less" />
       <jump line="18" column="1" filename="$USER_HOME$/git/galileo/Gruntfile.js" />
+      <jump line="56" column="14" filename="$USER_HOME$/dev/fsFrontend/app/less/main.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CTxoMT5IZXJlIGdvZXMgdGhlIHNvY2lhbCBmZWVkPC9oMT4KCTxwPnNvbWUgY29udGVudDwvcD4K</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -986,37 +985,37 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWJhY2tncm91bmQ6IHVybCgnJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8aW1nIHNyYz0iaHR0cHM6Ly9kbC5kcm9wYm94dXNlcmNvbnRlbnQuY29tL3UvNDE1OTU5My9mZWRlc2lsdmEucG5nIiBhbHQ9IiIgY2xhc3M9Im1lIi8+CgkJCg==</text>
+        <text encoding="base64">CWJhY2tncm91bmQ6IHVybCgvaW1hZ2VzL2JnLnBuZykgcmVwZWF0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CTxoMT5IZXJlIGdvZXMgdGhlIHNvY2lhbCBmZWVkPC9oMT4KCTxwPnNvbWUgY29udGVudDwvcD4K</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7CiAgICBvcHRpb25zOiB7CiAgICAgICAgY29uZmlnOiAnZXNsaW50Lmpzb24nCiAgICB9LAogICAgdGFyZ2V0OiBbJ2FwcC8hKGJ1aWxkfHZlbmRvcikvKiovKi5qcycsICdzcGVjLyoqLyouanMnXQp9Owo=</text>
+        <text encoding="base64">CWJhY2tncm91bmQ6IHVybCgvaW1hZ2VzL2JnLnBuZykgcmVwZWF0Owo=</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;fede()</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQk8aW1nIHNyYz0iaHR0cHM6Ly9kbC5kcm9wYm94dXNlcmNvbnRlbnQuY29tL3UvNDE1OTU5My9mZWRlc2lsdmEucG5nIiBhbHQ9IiIgY2xhc3M9Im1lIi8+CgkJCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQk8aW1nIHNyYz0iaHR0cHM6Ly9kbC5kcm9wYm94dXNlcmNvbnRlbnQuY29tL3UvNDE1OTU5My9mZWRlc2lsdmEucG5nIiBhbHQ9IiIgY2xhc3M9Im1lIi8+CgkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8aW1nIHNyYz0iaHR0cHM6Ly9kbC5kcm9wYm94dXNlcmNvbnRlbnQuY29tL3UvNDE1OTU5My9mZWRlc2lsdmEucG5nIiBhbHQ9IiIgY2xhc3M9Im1lIi8+CgkJCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoAction</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBtaWRkbGUK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>ng-click=</text>
+        <text>&quot;</text>
       </register>
     </registers>
     <search>
