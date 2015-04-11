@@ -81,11 +81,11 @@
         <mark key="." line="37" column="58" />
         <mark key="[" line="37" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/eduardo/app/index.html" timestamp="1428756081415">
-        <mark key="]" line="10" column="72" />
-        <mark key="^" line="10" column="72" />
-        <mark key="." line="10" column="72" />
-        <mark key="[" line="10" column="45" />
+      <file name="$USER_HOME$/dev/eduardo/app/index.html" timestamp="1428765359952">
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="9" column="72" />
+        <mark key="." line="27" column="0" />
+        <mark key="[" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ember-tutorial/app/templates/charts.hbs" timestamp="1426964899773">
         <mark key="]" line="0" column="0" />
@@ -183,6 +183,11 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="7" column="24" />
         <mark key="[" line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/eduardo/app/js/services/api.js" timestamp="1428765413752">
+        <mark key="]" line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="12" column="10" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/js/directives/social-feed/social-feed.html" timestamp="1428243424840">
         <mark key="]" line="1" column="0" />
@@ -446,10 +451,6 @@
         <mark key="." line="11" column="84" />
         <mark key="[" line="11" column="70" />
       </file>
-      <file name="$USER_HOME$/git/galileo/package.json" timestamp="1428074175739">
-        <mark key="]" line="24" column="29" />
-        <mark key="[" line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/js/directives/animateOnChange.js" timestamp="1427775015075">
         <mark key="]" line="17" column="0" />
         <mark key="^" line="13" column="71" />
@@ -524,11 +525,11 @@
         <mark key="." line="11" column="22" />
         <mark key="[" line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/eduardo/app/templates/login.html" timestamp="1428755896709">
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-        <mark key="[" line="0" column="16" />
+      <file name="$USER_HOME$/dev/eduardo/app/templates/login.html" timestamp="1428765210217">
+        <mark key="]" line="4" column="78" />
+        <mark key="^" line="4" column="78" />
+        <mark key="." line="4" column="78" />
+        <mark key="[" line="4" column="48" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/js/services/api.srv.js" timestamp="1427775056918">
         <mark key="]" line="20" column="40" />
@@ -567,13 +568,19 @@
         <mark key="." line="5" column="3" />
         <mark key="[" line="5" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/eduardo/app/js/controllers/LoginController.js" timestamp="1428765180027">
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="[" line="4" column="29" />
+      </file>
       <file name="$USER_HOME$/dev/ember-cms/app/js/pages/posts/post.js" timestamp="1427517106559">
         <mark key="]" line="34" column="13" />
         <mark key="^" line="48" column="49" />
         <mark key="." line="48" column="49" />
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1428190158962">
+      <file name="/a.dummy" timestamp="1428765905643">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ember-tutorial/bower.json" timestamp="1426813567713">
@@ -765,10 +772,6 @@
         <mark key="." line="9" column="20" />
         <mark key="[" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/git/galileo/grunt-tasks/eslint.js" timestamp="1428074352561">
-        <mark key="]" line="5" column="2" />
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/angular2/quickstart/app.es6" timestamp="1427337439171">
         <mark key="]" line="18" column="25" />
         <mark key="^" line="18" column="25" />
@@ -948,8 +951,8 @@
       <jump line="14" column="38" filename="$USER_HOME$/dev/eduardo/app/js/controllers/PostsController.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Lm5hdmJhciB7Cn0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -981,7 +984,7 @@
         <text>less</text>
       </register>
       <register name="-" type="4">
-        <text>normalize</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -996,37 +999,37 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsaW5lLWhlaWdodDogNDBweDsK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9InZlbmRvci9ib3dlci9hbmd1bGFyLXJlc291cmNlL2FuZ3VsYXItcmVzb3VyY2UuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAwIDIwcHg7Cg==</text>
+        <text encoding="base64">CQkJIHRoaXMuCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Lm5hdmJhciB7Cn0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CTxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0idmVuZG9yL2Jvd2VyL25vcm1hbGl6ZS1jc3Mvbm9ybWFsaXplLmNzcyI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0b3A6IDA7Cg==</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAwIDIwcHg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByaWdodDogMDsK</text>
+        <text encoding="base64">Lm5hdmJhciB7Cn0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBsZWZ0OiAxNTBweDsK</text>
+      <register name="5" type="4">
+        <text>Please sign up</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDQwcHg7Cg==</text>
+        <text encoding="base64">CTxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0idmVuZG9yL2Jvd2VyL25vcm1hbGl6ZS1jc3Mvbm9ybWFsaXplLmNzcyI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoAction</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiAjMDAwOwo=</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDQwcHg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogZml4ZWQ7Cg==</text>
+        <text encoding="base64">ICBsaW5lLWhlaWdodDogNDBweDsK</text>
       </register>
     </registers>
     <search>
