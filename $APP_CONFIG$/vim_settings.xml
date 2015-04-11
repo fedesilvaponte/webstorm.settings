@@ -149,11 +149,11 @@
         <mark key="." line="6" column="0" />
         <mark key="[" line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/fsFrontend/firebase.json" timestamp="1427608370741">
-        <mark key="]" line="7" column="3" />
+      <file name="$USER_HOME$/dev/fsFrontend/firebase.json" timestamp="1428779710807">
+        <mark key="]" line="11" column="4" />
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
-        <mark key="[" line="7" column="3" />
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/js/services/post.srv.js" timestamp="1424314799152">
         <mark key="]" line="0" column="6" />
@@ -266,6 +266,12 @@
         <mark key="." line="19" column="23" />
         <mark key="[" line="19" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/eduardo/firebase.json" timestamp="1428779722005">
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="[" line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/testloopback/common/models/user.js" timestamp="1420760333198">
         <mark key="]" line="1" column="5" />
         <mark key="^" line="1" column="5" />
@@ -375,6 +381,12 @@
         <mark key="^" line="17" column="68" />
         <mark key="." line="17" column="68" />
         <mark key="[" line="17" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/eduardo/.gitignore" timestamp="1428779747197">
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+        <mark key="[" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/dev/fsBackend/views/post/edit.jade" timestamp="1424226231816">
         <mark key="]" line="5" column="91" />
@@ -555,7 +567,7 @@
         <mark key="." line="48" column="49" />
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1428775680286">
+      <file name="/a.dummy" timestamp="1428779772313">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ember-tutorial/bower.json" timestamp="1426813567713">
@@ -574,10 +586,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/testloopback/common/models/page.json" timestamp="1428766698211">
-        <mark key="]" line="49" column="4" />
-        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/grunt-tasks/connect.js" timestamp="1428074615132">
         <mark key="]" line="7" column="0" />
@@ -720,6 +728,9 @@
         <mark key="^" line="41" column="26" />
         <mark key="." line="41" column="26" />
         <mark key="[" line="41" column="28" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1428779772295">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/templates/about.html" timestamp="1427602439931">
         <mark key="]" line="3" column="0" />
@@ -909,7 +920,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWNvcHkgPSByZXF1aXJlKCdndWxwLWNvcHknKSwK</text>
+        <text encoding="base64">CSJyZXdyaXRlcyI6IFsgewoJCSJzb3VyY2UiOiAiKioiLAoJCSJkZXN0aW5hdGlvbiI6ICIvaW5kZXguaHRtbCIKCX0gXQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -965,7 +976,7 @@
         <text>/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWNvcHkgPSByZXF1aXJlKCdndWxwLWNvcHknKSwK</text>
+        <text encoding="base64">CSJyZXdyaXRlcyI6IFsgewoJCSJzb3VyY2UiOiAiKioiLAoJCSJkZXN0aW5hdGlvbiI6ICIvaW5kZXguaHRtbCIKCX0gXQo=</text>
       </register>
       <register name="7" type="4">
         <text>directives</text>
