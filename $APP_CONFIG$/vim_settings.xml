@@ -544,7 +544,7 @@
         <mark key="." line="48" column="49" />
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1428766815484">
+      <file name="/a.dummy" timestamp="1428775680286">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ember-tutorial/bower.json" timestamp="1426813567713">
@@ -709,9 +709,6 @@
         <mark key="^" line="41" column="26" />
         <mark key="." line="41" column="26" />
         <mark key="[" line="41" column="28" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1428766815466">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/templates/about.html" timestamp="1427602439931">
         <mark key="]" line="3" column="0" />
