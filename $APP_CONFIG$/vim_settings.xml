@@ -81,6 +81,12 @@
         <mark key="." line="37" column="58" />
         <mark key="[" line="37" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/eduardo/app/index.html" timestamp="1428756081415">
+        <mark key="]" line="10" column="72" />
+        <mark key="^" line="10" column="72" />
+        <mark key="." line="10" column="72" />
+        <mark key="[" line="10" column="45" />
+      </file>
       <file name="$USER_HOME$/dev/ember-tutorial/app/templates/charts.hbs" timestamp="1426964899773">
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="21" />
@@ -111,6 +117,11 @@
         <mark key="." line="5" column="3" />
         <mark key="[" line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/eduardo/app/app.js" timestamp="1428755643246">
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="[" line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/templates/page-default.html" timestamp="1427602423804">
         <mark key="]" line="3" column="0" />
         <mark key="^" line="1" column="0" />
@@ -123,6 +134,11 @@
         <mark key="^" line="27" column="29" />
         <mark key="." line="27" column="29" />
         <mark key="[" line="27" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/eduardo/app/less/main.less" timestamp="1428756203544">
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="[" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/angular-cms/.gitignore" timestamp="1427405679573">
         <mark key="]" line="2" column="3" />
@@ -203,6 +219,7 @@
         <mark key="." line="3" column="19" />
         <mark key="[" line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/eduardo/app/js/routes.js" timestamp="1428755323007" />
       <file name="$USER_HOME$/dev/ember-tutorial/app/api/fixtures.json" timestamp="1426906233544">
         <mark key="]" line="4" column="3" />
         <mark key="^" line="4" column="3" />
@@ -507,6 +524,12 @@
         <mark key="." line="11" column="22" />
         <mark key="[" line="11" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/eduardo/app/templates/login.html" timestamp="1428755896709">
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="[" line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/js/services/api.srv.js" timestamp="1427775056918">
         <mark key="]" line="20" column="40" />
         <mark key="^" line="20" column="40" />
@@ -661,6 +684,12 @@
         <mark key="." line="7" column="0" />
         <mark key="[" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/eduardo/app/js/controllers.js" timestamp="1428755472843">
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+        <mark key="[" line="4" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/ember-cms/app/templates/login.hbs" timestamp="1427252802574">
         <mark key="]" line="1" column="22" />
         <mark key="^" line="1" column="22" />
@@ -746,11 +775,6 @@
         <mark key="." line="18" column="25" />
         <mark key="[" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/git/galileo/Gruntfile.js" timestamp="1428074091818">
-        <mark key="'" line="18" column="1" />
-        <mark key="]" line="18" column="1" />
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/angular2/quickstart/index.html" timestamp="1427337482512">
         <mark key="]" line="22" column="8" />
         <mark key="^" line="22" column="8" />
@@ -793,6 +817,9 @@
         <mark key="." line="8" column="0" />
         <mark key="[" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/eduardo/app/js/controllers/PostsController.js" timestamp="1428755532193">
+        <mark key="'" line="14" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/fsBackend/api/models/Post.js" timestamp="1427551822028">
         <mark key="]" line="12" column="27" />
         <mark key="^" line="12" column="27" />
@@ -819,7 +846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ember-cms/app/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ember-cms/app/templates.js" />
       <jump line="6" column="166" filename="$USER_HOME$/dev/ember-cms/app/templates.js" />
       <jump line="7" column="274" filename="$USER_HOME$/dev/ember-cms/app/templates.js" />
@@ -919,10 +945,11 @@
       <jump line="18" column="1" filename="$USER_HOME$/git/galileo/Gruntfile.js" />
       <jump line="56" column="14" filename="$USER_HOME$/dev/fsFrontend/app/less/main.less" />
       <jump line="89" column="16" filename="$USER_HOME$/dev/fsFrontend/gulpfile.js" />
+      <jump line="14" column="38" filename="$USER_HOME$/dev/eduardo/app/js/controllers/PostsController.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Lm5hdmJhciB7Cn0K</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -954,7 +981,7 @@
         <text>less</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>normalize</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -968,38 +995,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
-        <text>0</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBsaW5lLWhlaWdodDogNDBweDsK</text>
       </register>
-      <register name="2" type="4">
-        <text>0</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBwYWRkaW5nOiAwIDIwcHg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">Lm5hdmJhciB7Cn0K</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWJhY2tncm91bmQ6IHVybCgvaW1hZ2VzL2JnLnBuZykgcmVwZWF0Owo=</text>
+        <text encoding="base64">CTxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0idmVuZG9yL2Jvd2VyL25vcm1hbGl6ZS1jc3Mvbm9ybWFsaXplLmNzcyI+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>0</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICB0b3A6IDA7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICByaWdodDogMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWRpc3BsYXk6IGZsZXg7Cg==</text>
+        <text encoding="base64">ICBsZWZ0OiAxNTBweDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmbGV4LWdyb3c6IDE7Cg==</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDQwcHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoAction</text>
       </register>
-      <register name="9" type="4">
-        <text>image</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBiYWNrZ3JvdW5kOiAjMDAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQltYXJnaW4tbGVmdDogMjBweDsK</text>
+        <text encoding="base64">ICBwb3NpdGlvbjogZml4ZWQ7Cg==</text>
       </register>
     </registers>
     <search>
