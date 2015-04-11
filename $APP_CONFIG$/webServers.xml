@@ -8,6 +8,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="c3873d52-1d95-47da-b09b-57773a290c23" name="ftp.contenidos-web.net" url="http://ftp.contenidos-web.net">
+        <fileTransfer host="ftp.contenidos-web.net" port="21" username="fede@contenidos-web.net">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

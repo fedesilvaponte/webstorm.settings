@@ -174,6 +174,13 @@
         <mark key="." line="7" column="24" />
         <mark key="[" line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/eduardo/gulpfile.js" timestamp="1428777128856">
+        <mark key="'" line="33" column="18" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="[" line="6" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/eduardo/app/js/services/api.js" timestamp="1428769368679">
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -341,6 +348,10 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
         <mark key="[" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/fsFrontend/gulpfile.js" timestamp="1428776734901">
+        <mark key="]" line="15" column="30" />
+        <mark key="[" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/angular-cms/app/js/services/posts.srv.js" timestamp="1427659082631">
         <mark key="]" line="46" column="37" />
@@ -795,7 +806,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="17" filename="$USER_HOME$/dev/ember-cms/app/templates.js" />
       <jump line="236" column="89" filename="$USER_HOME$/dev/ember-cms/app/templates.js" />
       <jump line="14" column="31" filename="$USER_HOME$/dev/ember-cms/app/js/pages/posts/posts.js" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/angular-cms/gulpfile.js" />
@@ -895,10 +905,11 @@
       <jump line="8" column="23" filename="$USER_HOME$/dev/eduardo/app/js/controllers/DashboardController.js" />
       <jump line="1" column="9" filename="$USER_HOME$/dev/eduardo/app/js/controllers/DashboardController.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/eduardo/app/js/controllers/DashboardController.js" />
+      <jump line="20" column="18" filename="$USER_HOME$/dev/eduardo/gulpfile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>domicilio</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWNvcHkgPSByZXF1aXJlKCdndWxwLWNvcHknKSwK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -930,7 +941,7 @@
         <text>less</text>
       </register>
       <register name="-" type="4">
-        <text>domicilio</text>
+        <text>/</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -944,38 +955,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
-        <text>Domicilio</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>content</text>
       </register>
       <register name="1" type="4">
-        <text>domicilio</text>
+        <text>/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQk8aDM+RG9taWNpbGlvOiB7e2xpYnJldGEuZG9taWNpbGlvfX08L2gzPgo=</text>
+        <text encoding="base64">CWNvcHkgPSByZXF1aXJlKCdndWxwLWNvcHknKSwK</text>
       </register>
       <register name="7" type="4">
-        <text>nacimiento</text>
+        <text>directives</text>
       </register>
       <register name="6" type="4">
-        <text>fecha_nacimiento</text>
+        <text>js</text>
       </register>
       <register name="5" type="4">
-        <text>Documento de indentidad</text>
+        <text>/</text>
       </register>
-      <register name="4" type="4">
-        <text>dni</text>
+      <register name="4" type="2">
+        <text encoding="base64">Z3VscC50YXNrKCd0ZW1wbGF0ZXMnLCBmdW5jdGlvbigpewoJZ3VscC5zcmMoWydmaWxlLnR4dCddKQoJCS5waXBlKHJlcGxhY2UoL2ZvbyguezN9KS9nLCAnJDFmb28nKSkKCQkucGlwZShndWxwLmRlc3QoJ2J1aWxkL2ZpbGUudHh0JykpOwp9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoAction</text>
       </register>
-      <register name="9" type="4">
-        <text>de</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQknYXBwL2pzL2RpcmVjdGl2ZXMvc29jaWFsLWZlZWQvKi5odG1sJywK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQknYXBwL2pzL2RpcmVjdGl2ZXMvZGlzcXVzLyouaHRtbCcK</text>
       </register>
     </registers>
     <search>
