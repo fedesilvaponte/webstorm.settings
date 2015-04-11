@@ -603,11 +603,11 @@
         <mark key="." line="5" column="36" />
         <mark key="[" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/eduardo/app/templates/dashboard.html" timestamp="1428771153274">
-        <mark key="]" line="11" column="56" />
-        <mark key="^" line="11" column="55" />
-        <mark key="." line="11" column="56" />
-        <mark key="[" line="11" column="56" />
+      <file name="$USER_HOME$/dev/eduardo/app/templates/dashboard.html" timestamp="1428771260612">
+        <mark key="]" line="11" column="58" />
+        <mark key="^" line="11" column="58" />
+        <mark key="." line="11" column="58" />
+        <mark key="[" line="11" column="58" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/js/directives/sidebar/sidebar.html" timestamp="1427608032206">
         <mark key="]" line="27" column="21" />
@@ -885,7 +885,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>}</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -917,7 +917,7 @@
         <text>less</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>}</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -932,34 +932,34 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text>-</text>
+        <text>{</text>
       </register>
       <register name="2" type="4">
-        <text>'</text>
+        <text>}</text>
       </register>
       <register name="1" type="4">
-        <text>'</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJcm91dGVzUHJvdmlkZXIuY3JlYXRlUm91dGUoJ251ZXZhLWxpYnJldGEnKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>}</text>
+        <text>nueva</text>
       </register>
       <register name="6" type="4">
-        <text>{{libreta.nombre}} {{libreta.apellidos}}</text>
+        <text>-</text>
       </register>
       <register name="5" type="4">
-        <text>}</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>nueva</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>action GotoAction</text>
       </register>
       <register name="9" type="4">
-        <text>{</text>
+        <text>{{libreta.nombre}} {{libreta.apellidos}}</text>
       </register>
       <register name="8" type="4">
         <text>}</text>
