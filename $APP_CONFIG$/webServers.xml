@@ -15,6 +15,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="12bef368-7f4d-4a89-b267-accd44ab33bc" name="webfaction" url="http://108.168.242.154">
+        <fileTransfer host="108.168.242.154" port="21" rootFolder="/home/fedesilva" password="dffddfcfdfc8dfeddfdfdfd8dfdfdf9bdf98df99" username="fedesilva">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
