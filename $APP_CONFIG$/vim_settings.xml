@@ -616,6 +616,11 @@
         <mark key="." line="8" column="37" />
         <mark key="[" line="8" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/rails/todo/app/controllers/todo_items_controller.rb" timestamp="1433132746249">
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/eduardo/app/js/controllers/DashboardController.js" timestamp="1428771577851">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="16" column="4" />
@@ -922,8 +927,8 @@
       <jump line="20" column="18" filename="$USER_HOME$/dev/eduardo/gulpfile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>space</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWJlZm8K</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -970,37 +975,37 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text>/</text>
-      </register>
-      <register name="2" type="4">
         <text>s</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>space</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CWJlZm8K</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSJyZXdyaXRlcyI6IFsgewoJCSJzb3VyY2UiOiAiKioiLAoJCSJkZXN0aW5hdGlvbiI6ICIvaW5kZXguaHRtbCIKCX0gXQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>/</text>
-      </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Z3VscC50YXNrKCd0ZW1wbGF0ZXMnLCBmdW5jdGlvbigpewoJZ3VscC5zcmMoWydmaWxlLnR4dCddKQoJCS5waXBlKHJlcGxhY2UoL2ZvbyguezN9KS9nLCAnJDFmb28nKSkKCQkucGlwZShndWxwLmRlc3QoJ2J1aWxkL2ZpbGUudHh0JykpOwp9KTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>content</text>
+      </register>
+      <register name="4" type="4">
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
       <register name="9" type="4">
-        <text>directives</text>
+        <text>js</text>
       </register>
       <register name="8" type="4">
-        <text>js</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
