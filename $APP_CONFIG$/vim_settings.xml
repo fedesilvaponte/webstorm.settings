@@ -531,11 +531,11 @@
         <mark key="." line="4" column="78" />
         <mark key="[" line="4" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/fsFrontend/app/js/services/api.srv.js" timestamp="1427775056918">
-        <mark key="]" line="20" column="40" />
-        <mark key="^" line="20" column="40" />
-        <mark key="." line="20" column="40" />
-        <mark key="[" line="20" column="36" />
+      <file name="$USER_HOME$/dev/fsFrontend/app/js/services/api.srv.js" timestamp="1433632648482">
+        <mark key="]" line="66" column="66" />
+        <mark key="^" line="66" column="66" />
+        <mark key="." line="66" column="66" />
+        <mark key="[" line="66" column="62" />
       </file>
       <file name="$USER_HOME$/dev/maine/app/js/pages/disco/disco.html" timestamp="1427856548026">
         <mark key="]" line="8" column="57" />
@@ -646,7 +646,7 @@
         <mark key="." line="5" column="36" />
         <mark key="[" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/fsFrontend/app/js/directives/sidebar/sidebar.html" timestamp="1427608032206">
+      <file name="$USER_HOME$/dev/fsFrontend/app/js/directives/sidebar/sidebar.html" timestamp="1433340112692">
         <mark key="]" line="27" column="21" />
         <mark key="^" line="27" column="21" />
         <mark key="." line="27" column="21" />
@@ -927,8 +927,8 @@
       <jump line="20" column="18" filename="$USER_HOME$/dev/eduardo/gulpfile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWJlZm8K</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -960,7 +960,7 @@
         <text>less</text>
       </register>
       <register name="-" type="4">
-        <text>space</text>
+        <text>/</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -975,37 +975,37 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>space</text>
+        <text>api</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CWJlZm8K</text>
+      <register name="1" type="4">
+        <text>/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSJyZXdyaXRlcyI6IFsgewoJCSJzb3VyY2UiOiAiKioiLAoJCSJkZXN0aW5hdGlvbiI6ICIvaW5kZXguaHRtbCIKCX0gXQo=</text>
+        <text encoding="base64">CQkJCXJldHVybiAkaHR0cC5nZXQoYXBwQ29uZmlnLkFQSV9VUkwgKyAnYXBpL3Bvc3RzJykK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Z3VscC50YXNrKCd0ZW1wbGF0ZXMnLCBmdW5jdGlvbigpewoJZ3VscC5zcmMoWydmaWxlLnR4dCddKQoJCS5waXBlKHJlcGxhY2UoL2ZvbyguezN9KS9nLCAnJDFmb28nKSkKCQkucGlwZShndWxwLmRlc3QoJ2J1aWxkL2ZpbGUudHh0JykpOwp9KTsK</text>
+      <register name="7" type="4">
+        <text>.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>API_URL</text>
       </register>
       <register name="5" type="4">
-        <text>content</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text>+</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
-      <register name="9" type="4">
-        <text>js</text>
+      <register name="9" type="2">
+        <text encoding="base64">CWJlZm8K</text>
       </register>
       <register name="8" type="4">
-        <text>/</text>
+        <text>appConfig</text>
       </register>
     </registers>
     <search>
