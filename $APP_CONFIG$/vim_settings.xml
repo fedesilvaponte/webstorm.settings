@@ -531,11 +531,11 @@
         <mark key="." line="4" column="78" />
         <mark key="[" line="4" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/fsFrontend/app/js/services/api.srv.js" timestamp="1433633610241">
-        <mark key="]" line="66" column="63" />
-        <mark key="^" line="66" column="63" />
-        <mark key="." line="66" column="63" />
-        <mark key="[" line="66" column="62" />
+      <file name="$USER_HOME$/dev/fsFrontend/app/js/services/api.srv.js" timestamp="1433635672318">
+        <mark key="]" line="66" column="66" />
+        <mark key="^" line="66" column="65" />
+        <mark key="." line="66" column="66" />
+        <mark key="[" line="66" column="66" />
       </file>
       <file name="$USER_HOME$/dev/maine/app/js/pages/disco/disco.html" timestamp="1427856548026">
         <mark key="]" line="8" column="57" />
@@ -975,10 +975,10 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="2" type="4">
-        <text>api</text>
+        <text>posts</text>
       </register>
       <register name="1" type="4">
         <text>/</text>
@@ -987,25 +987,25 @@
         <text encoding="base64">CQkJCXJldHVybiAkaHR0cC5nZXQoYXBwQ29uZmlnLkFQSV9VUkwgKyAnYXBpL3Bvc3RzJykK</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>+</text>
       </register>
       <register name="6" type="4">
-        <text>API_URL</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="5" type="4">
+        <text>api</text>
+      </register>
       <register name="4" type="4">
-        <text>+</text>
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CWJlZm8K</text>
+      <register name="9" type="4">
+        <text>API_URL</text>
       </register>
       <register name="8" type="4">
-        <text>appConfig</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
