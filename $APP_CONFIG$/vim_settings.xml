@@ -573,7 +573,7 @@
         <mark key="." line="48" column="49" />
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1432990707878">
+      <file name="/a.dummy" timestamp="1435762859070">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ember-tutorial/bower.json" timestamp="1426813567713">
@@ -711,12 +711,6 @@
         <mark key="." line="13" column="0" />
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/eduardo/app/templates/nueva-libreta.html" timestamp="1428770739374">
-        <mark key="'" line="50" column="0" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/angular-cms/app/js/controllers/TagsController.js" timestamp="1427650687882">
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="36" />
@@ -739,6 +733,9 @@
         <mark key="^" line="41" column="26" />
         <mark key="." line="41" column="26" />
         <mark key="[" line="41" column="28" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1435762858889">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/templates/about.html" timestamp="1427602439931">
         <mark key="]" line="3" column="0" />
