@@ -20,17 +20,17 @@
         <mark key="." line="2" column="39" />
         <mark key="[" line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/ember-tutorial/app/css/main.css" timestamp="1426823157490">
-        <mark key="]" line="17" column="18" />
-        <mark key="^" line="17" column="18" />
-        <mark key="." line="17" column="18" />
-        <mark key="[" line="15" column="1" />
-      </file>
       <file name="$USER_HOME$/dev/ember-tutorial/.bowerrc" timestamp="1426811467637">
         <mark key="]" line="1" column="27" />
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
         <mark key="[" line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/ember-tutorial/app/css/main.css" timestamp="1426823157490">
+        <mark key="]" line="17" column="18" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+        <mark key="[" line="15" column="1" />
       </file>
       <file name="$USER_HOME$/dev/angular-cms/app/js/directives/navbar/navbar.html" timestamp="1427412403839">
         <mark key="]" line="0" column="15" />
@@ -181,33 +181,21 @@
         <mark key="." line="6" column="10" />
         <mark key="[" line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/angular-cms/app/js/directives/navbar.js" timestamp="1427332148161">
-        <mark key="]" line="6" column="27" />
-        <mark key="^" line="6" column="27" />
-        <mark key="." line="6" column="27" />
-        <mark key="[" line="5" column="28" />
+      <file name="$USER_HOME$/dev/eduardo/app/js/services/api.js" timestamp="1428769368679">
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/js/directives/social-feed/social-feed.html" timestamp="1428243424840">
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/eduardo/app/js/services/api.js" timestamp="1428769368679">
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="[" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/fsFrontend/app/less/posts.less" timestamp="1427860378231">
-        <mark key="]" line="94" column="31" />
-        <mark key="^" line="94" column="31" />
-        <mark key="." line="94" column="31" />
-        <mark key="[" line="94" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/fsFrontend/app/less/buttons.less" timestamp="1427768442090">
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="[" line="0" column="21" />
+      <file name="$USER_HOME$/dev/angular-cms/app/js/directives/navbar.js" timestamp="1427332148161">
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="[" line="5" column="28" />
       </file>
       <file name="$USER_HOME$/dev/eduardo/app/js/controllers/NuevaLibreta.js" timestamp="1428767229539">
         <mark key="]" line="3" column="41" />
@@ -215,11 +203,17 @@
         <mark key="." line="3" column="41" />
         <mark key="[" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/fsFrontend/app/js/pages/home/home.page.less" timestamp="1428275670478">
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-        <mark key="[" line="3" column="19" />
+      <file name="$USER_HOME$/dev/fsFrontend/app/less/buttons.less" timestamp="1427768442090">
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/fsFrontend/app/less/posts.less" timestamp="1427860378231">
+        <mark key="]" line="94" column="31" />
+        <mark key="^" line="94" column="31" />
+        <mark key="." line="94" column="31" />
+        <mark key="[" line="94" column="17" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/js/appConfig.js" timestamp="1427844221449">
         <mark key="]" line="10" column="25" />
@@ -227,11 +221,11 @@
         <mark key="." line="10" column="25" />
         <mark key="[" line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/eduardo/app/js/routes.js" timestamp="1428771632656">
-        <mark key="]" line="8" column="62" />
-        <mark key="^" line="8" column="100" />
-        <mark key="." line="8" column="62" />
-        <mark key="[" line="8" column="62" />
+      <file name="$USER_HOME$/dev/fsFrontend/app/js/pages/home/home.page.less" timestamp="1428275670478">
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="[" line="3" column="19" />
       </file>
       <file name="$USER_HOME$/dev/eduardo/app/templates/libreta.html" timestamp="1428772598775">
         <mark key="]" line="26" column="51" />
@@ -239,23 +233,29 @@
         <mark key="." line="26" column="51" />
         <mark key="[" line="26" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/eduardo/app/js/routes.js" timestamp="1428771632656">
+        <mark key="]" line="8" column="62" />
+        <mark key="^" line="8" column="100" />
+        <mark key="." line="8" column="62" />
+        <mark key="[" line="8" column="62" />
+      </file>
       <file name="$USER_HOME$/dev/ember-tutorial/app/api/fixtures.json" timestamp="1426906233544">
         <mark key="]" line="4" column="3" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
         <mark key="[" line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/maine/app/vendor/bower/angular-audio/app/angular.audio.js" timestamp="1427851126681">
-        <mark key="]" line="118" column="16" />
-        <mark key="^" line="118" column="16" />
-        <mark key="." line="118" column="16" />
-        <mark key="[" line="118" column="12" />
-      </file>
       <file name="$USER_HOME$/dev/fsFrontend/build/.htaccess" timestamp="1427605761988">
         <mark key="]" line="4" column="42" />
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
         <mark key="[" line="4" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/maine/app/vendor/bower/angular-audio/app/angular.audio.js" timestamp="1437933962511">
+        <mark key="]" line="146" column="0" />
+        <mark key="^" line="118" column="16" />
+        <mark key="." line="146" column="0" />
+        <mark key="[" line="146" column="0" />
       </file>
       <file name="/AngularJS Fragment (home.html:279).js" timestamp="1428079815146">
         <mark key="[" line="0" column="0" />
@@ -266,17 +266,24 @@
         <mark key="." line="19" column="23" />
         <mark key="[" line="19" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/eduardo/firebase.json" timestamp="1428779722005">
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="[" line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/testloopback/common/models/user.js" timestamp="1420760333198">
         <mark key="]" line="1" column="5" />
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
         <mark key="[" line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/eduardo/firebase.json" timestamp="1428779722005">
-        <mark key="]" line="7" column="3" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-        <mark key="[" line="7" column="3" />
+      <file name="$USER_HOME$/dev/maine/app/js/services/disco.srv.js" timestamp="1437934565187">
+        <mark key="'" line="25" column="12" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="55" column="42" />
+        <mark key="." line="67" column="0" />
+        <mark key="[" line="67" column="0" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/grunt-tasks/eslint.js" timestamp="1428074380631">
         <mark key="]" line="4" column="40" />
@@ -420,6 +427,11 @@
         <mark key="." line="7" column="26" />
         <mark key="[" line="7" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/maine/app/js/app.js" timestamp="1437934062388">
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/fsBackend/views/layout.jade" timestamp="1424225821765">
         <mark key="]" line="25" column="17" />
         <mark key="^" line="25" column="17" />
@@ -486,6 +498,12 @@
         <mark key="." line="105" column="21" />
         <mark key="[" line="105" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/maine/app/js/pages/disco/disco.page.js" timestamp="1437934195192">
+        <mark key="]" line="11" column="63" />
+        <mark key="^" line="11" column="70" />
+        <mark key="." line="11" column="63" />
+        <mark key="[" line="11" column="63" />
+      </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/js/directives/animateOnChange.js" timestamp="1427775015075">
         <mark key="]" line="17" column="0" />
         <mark key="^" line="13" column="71" />
@@ -534,6 +552,18 @@
         <mark key="." line="1" column="21" />
         <mark key="[" line="1" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/maine/app/sass/_animations.sass" timestamp="1437933911851">
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="[" line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/maine/app/sass/_disco.sass" timestamp="1437934292613">
+        <mark key="]" line="46" column="19" />
+        <mark key="^" line="46" column="19" />
+        <mark key="." line="46" column="19" />
+        <mark key="[" line="46" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/fsFrontend/.gitignore" timestamp="1424393277314">
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="11" />
@@ -576,20 +606,17 @@
         <mark key="." line="5" column="3" />
         <mark key="[" line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/eduardo/app/js/controllers/LoginController.js" timestamp="1428765180027">
-        <mark key="]" line="4" column="35" />
-        <mark key="^" line="4" column="35" />
-        <mark key="." line="4" column="35" />
-        <mark key="[" line="4" column="29" />
-      </file>
       <file name="$USER_HOME$/dev/ember-cms/app/js/pages/posts/post.js" timestamp="1427517106559">
         <mark key="]" line="34" column="13" />
         <mark key="^" line="48" column="49" />
         <mark key="." line="48" column="49" />
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1437864740097">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/eduardo/app/js/controllers/LoginController.js" timestamp="1428765180027">
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="[" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/dev/ember-tutorial/bower.json" timestamp="1426813567713">
         <mark key="]" line="19" column="22" />
@@ -616,17 +643,17 @@
         <mark key="." line="7" column="0" />
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/maine/bower.json" timestamp="1427850969619">
-        <mark key="]" line="24" column="27" />
-        <mark key="^" line="24" column="27" />
-        <mark key="." line="24" column="27" />
-        <mark key="[" line="24" column="27" />
-      </file>
       <file name="$USER_HOME$/dev/angular-cms/app/js/controllers/TestController.js" timestamp="1427296230070">
         <mark key="]" line="4" column="32" />
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="32" />
         <mark key="[" line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/maine/bower.json" timestamp="1427850969619">
+        <mark key="]" line="24" column="27" />
+        <mark key="^" line="24" column="27" />
+        <mark key="." line="24" column="27" />
+        <mark key="[" line="24" column="27" />
       </file>
       <file name="$USER_HOME$/dev/angular-cms/app/templates/edit-post.html" timestamp="1427648440061">
         <mark key="]" line="8" column="37" />
@@ -634,17 +661,17 @@
         <mark key="." line="8" column="37" />
         <mark key="[" line="8" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/rails/todo/app/controllers/todo_items_controller.rb" timestamp="1433132746249">
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/eduardo/app/js/controllers/DashboardController.js" timestamp="1428771577851">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="16" column="4" />
         <mark key="^" line="14" column="14" />
         <mark key="." line="15" column="0" />
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/rails/todo/app/controllers/todo_items_controller.rb" timestamp="1433132746249">
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/fsBackend/views/post/index.jade" timestamp="1424311039481">
         <mark key="]" line="17" column="18" />
@@ -664,17 +691,17 @@
         <mark key="." line="5" column="36" />
         <mark key="[" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/fsFrontend/app/js/directives/sidebar/sidebar.html" timestamp="1433340112692">
-        <mark key="]" line="28" column="21" />
-        <mark key="^" line="28" column="21" />
-        <mark key="." line="28" column="21" />
-        <mark key="[" line="28" column="15" />
-      </file>
       <file name="$USER_HOME$/dev/eduardo/app/templates/dashboard.html" timestamp="1428771298123">
         <mark key="]" line="11" column="56" />
         <mark key="^" line="11" column="41" />
         <mark key="." line="11" column="56" />
         <mark key="[" line="11" column="56" />
+      </file>
+      <file name="$USER_HOME$/dev/fsFrontend/app/js/directives/sidebar/sidebar.html" timestamp="1433340112692">
+        <mark key="]" line="28" column="21" />
+        <mark key="^" line="28" column="21" />
+        <mark key="." line="28" column="21" />
+        <mark key="[" line="28" column="15" />
       </file>
       <file name="$USER_HOME$/dev/ember-cms/app/app.js" timestamp="1427252954752">
         <mark key="]" line="17" column="15" />
@@ -682,16 +709,16 @@
         <mark key="." line="17" column="15" />
         <mark key="[" line="17" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/nodeauth/app.js" timestamp="1437864644147">
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="[" line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/templates/home.html" timestamp="1428275437599">
         <mark key="]" line="2" column="22" />
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
         <mark key="[" line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/nodeauth/app.js" timestamp="1437864644147">
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/angular-cms/.bowerrc" timestamp="1427321212460">
         <mark key="]" line="1" column="25" />
@@ -737,16 +764,16 @@
         <mark key="." line="13" column="0" />
         <mark key="[" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/angular-cms/app/js/controllers/PostsController.js" timestamp="1427659276020">
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="[" line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/angular-cms/app/js/controllers/TagsController.js" timestamp="1427650687882">
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="0" />
         <mark key="[" line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/angular-cms/app/js/controllers/PostsController.js" timestamp="1427659276020">
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="[" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/dev/maine/app/js/pages/home/home.html" timestamp="1427858175120">
         <mark key="]" line="6" column="68" />
@@ -765,14 +792,14 @@
         <mark key="." line="41" column="26" />
         <mark key="[" line="41" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1437864740051">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/templates/about.html" timestamp="1427602439931">
         <mark key="]" line="3" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="[" line="3" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1437864740051">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/galileo/grunt-tasks/concurrent.js" timestamp="1420633977193">
         <mark key="]" line="9" column="20" />
@@ -792,16 +819,16 @@
         <mark key="." line="22" column="8" />
         <mark key="[" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/fsFrontend/app/js/controllers/PagesController.js" timestamp="1427606982188">
+        <mark key="]" line="3" column="64" />
+        <mark key="." line="3" column="64" />
+        <mark key="[" line="3" column="64" />
+      </file>
       <file name="$USER_HOME$/dev/angular-bootstrap/app/main.js" timestamp="1425185028382">
         <mark key="]" line="2" column="16" />
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
         <mark key="[" line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/fsFrontend/app/js/controllers/PagesController.js" timestamp="1427606982188">
-        <mark key="]" line="3" column="64" />
-        <mark key="." line="3" column="64" />
-        <mark key="[" line="3" column="64" />
       </file>
       <file name="$USER_HOME$/dev/ember-tutorial/app/templates/nav.hbs" timestamp="1427029664967">
         <mark key="]" line="4" column="30" />
@@ -827,17 +854,17 @@
         <mark key="." line="12" column="27" />
         <mark key="[" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/angular-cms/app/templates/tags.html" timestamp="1427643661546">
-        <mark key="]" line="14" column="48" />
-        <mark key="^" line="14" column="48" />
-        <mark key="." line="14" column="48" />
-        <mark key="[" line="14" column="46" />
-      </file>
       <file name="$USER_HOME$/dev/angular-cms/gulpfile.js" timestamp="1427597574316">
         <mark key="]" line="20" column="18" />
         <mark key="^" line="20" column="18" />
         <mark key="." line="20" column="18" />
         <mark key="[" line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/angular-cms/app/templates/tags.html" timestamp="1427643661546">
+        <mark key="]" line="14" column="48" />
+        <mark key="^" line="14" column="48" />
+        <mark key="." line="14" column="48" />
+        <mark key="[" line="14" column="46" />
       </file>
       <file name="$USER_HOME$/dev/fsBackend/assets/styles/main.less" timestamp="1424308618613">
         <mark key="]" line="1" column="15" />
@@ -853,8 +880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/angular-cms/app/templates/app.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/angular-cms/app/index.html" />
       <jump line="16" column="23" filename="$USER_HOME$/dev/angular-cms/app/js/services/Auth.js" />
       <jump line="19" column="15" filename="$USER_HOME$/dev/ember-cms/app/templates/Posts/sidebar.hbs" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ember-cms/app/templates/Posts/sidebar.hbs" />
@@ -953,10 +978,12 @@
       <jump line="81" column="0" filename="$USER_HOME$/dev/nodeauth/routes/users.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/nodeauth/routes/users.js" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/nodeauth/routes/users.js" />
+      <jump line="56" column="42" filename="$USER_HOME$/dev/maine/app/js/services/disco.srv.js" />
+      <jump line="25" column="12" filename="$USER_HOME$/dev/maine/app/js/services/disco.srv.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFyIGRiID0gbW9uZ29vc2UuY29ubmVjdGlvbjsK</text>
+        <text encoding="base64">CQkJCQkJZmlsZTogJy4uLy4uL2F1ZGlvL2NoYWdhbGlhLm1wMycsCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -988,7 +1015,7 @@
         <text>less</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>crayolas</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1002,38 +1029,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dmFyIGxvY2FsU3RyYXRlZ3kgPSByZXF1aXJlKCdwYXNzcG9ydC1sb2NhbCcpLlN0cmF0ZWd5Owo=</text>
+      <register name="3" type="4">
+        <text>crayolas</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIG1vbmdvID0gcmVxdWlyZSgnbW9uZ29kYicpOwo=</text>
+        <text encoding="base64">CQkJCQkJZmlsZTogJy4uLy4uL2F1ZGlvL2NhZGFwYXNvLm1wMycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIGRiID0gbW9uZ29vc2UuY29ubmVjdGlvbjsK</text>
+        <text encoding="base64">CQkJCQkJZmlsZTogJy4uLy4uL2F1ZGlvL2NoYWdhbGlhLm1wMycsCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyIG11bHRlciA9IHJlcXVpcmUoJ211bHRlcicpOwo=</text>
+        <text encoding="base64">CQkJCQkJZmlsZTogJy4uLy4uL2F1ZGlvL2NyYXlvbGFzLm1wMycsCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gdW5jb21tZW50IGFmdGVyIHBsYWNpbmcgeW91ciBmYXZpY29uIGluIC9wdWJsaWMKLy9hcHAudXNlKGZhdmljb24oX19kaXJuYW1lICsgJy9wdWJsaWMvZmF2aWNvbi5pY28nKSk7CmFwcC51c2UobG9nZ2VyKCdkZXYnKSk7CmFwcC51c2UoYm9keVBhcnNlci5qc29uKCkpOwphcHAudXNlKGJvZHlQYXJzZXIudXJsZW5jb2RlZCh7IGV4dGVuZGVkOiBmYWxzZSB9KSk7CmFwcC51c2UoY29va2llUGFyc2VyKCkpOwphcHAudXNlKGV4cHJlc3Muc3RhdGljKHBhdGguam9pbihfX2Rpcm5hbWUsICdwdWJsaWMnKSkpOwo=</text>
+      <register name="5" type="4">
+        <text>_</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dmFyIG11bHRlciA9IHJlcXVpcmUoJ211bHRlcicpOwo=</text>
+      <register name="4" type="4">
+        <text>ciudad</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="9" type="4">
+        <text>lucia</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>u</text>
       </register>
     </registers>
     <search>
