@@ -618,6 +618,9 @@
         <mark key="." line="4" column="35" />
         <mark key="[" line="4" column="29" />
       </file>
+      <file name="/a.dummy" timestamp="1437934616293">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ember-tutorial/bower.json" timestamp="1426813567713">
         <mark key="]" line="19" column="22" />
         <mark key="^" line="19" column="22" />
@@ -797,9 +800,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="[" line="3" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1437864740051">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/galileo/grunt-tasks/concurrent.js" timestamp="1420633977193">
         <mark key="]" line="9" column="20" />
