@@ -296,11 +296,11 @@
         <mark key="." line="7" column="17" />
         <mark key="[" line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/nodeauth/routes/index.js" timestamp="1437627729091">
-        <mark key="]" line="2" column="39" />
-        <mark key="^" line="2" column="41" />
-        <mark key="." line="2" column="39" />
-        <mark key="[" line="2" column="39" />
+      <file name="$USER_HOME$/dev/nodeauth/routes/index.js" timestamp="1437936366668">
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="[" line="10" column="14" />
       </file>
       <file name="$USER_HOME$/dev/angular-cms/app/templates/create-post.html" timestamp="1427600446006">
         <mark key="]" line="5" column="73" />
@@ -712,16 +712,23 @@
         <mark key="." line="17" column="15" />
         <mark key="[" line="17" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/nodeauth/views/images.jade" timestamp="1437936349485">
+        <mark key="]" line="5" column="5" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+        <mark key="[" line="5" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/templates/home.html" timestamp="1428275437599">
         <mark key="]" line="2" column="22" />
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
         <mark key="[" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/nodeauth/app.js" timestamp="1437864644147">
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="[" line="11" column="0" />
+      <file name="$USER_HOME$/dev/nodeauth/app.js" timestamp="1437936444136">
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="[" line="17" column="49" />
       </file>
       <file name="$USER_HOME$/dev/angular-cms/.bowerrc" timestamp="1427321212460">
         <mark key="]" line="1" column="25" />
@@ -767,6 +774,12 @@
         <mark key="." line="13" column="0" />
         <mark key="[" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/nodeauth/views/layout.jade" timestamp="1437936241471">
+        <mark key="]" line="25" column="32" />
+        <mark key="^" line="20" column="50" />
+        <mark key="." line="25" column="32" />
+        <mark key="[" line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/angular-cms/app/js/controllers/PostsController.js" timestamp="1427659276020">
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -784,8 +797,8 @@
         <mark key="." line="6" column="68" />
         <mark key="[" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/nodeauth/models/user.js" timestamp="1437628418377">
-        <mark key="]" line="3" column="0" />
+      <file name="$USER_HOME$/dev/nodeauth/models/user.js" timestamp="1437936440215">
+        <mark key="]" line="3" column="49" />
         <mark key="." line="3" column="0" />
         <mark key="[" line="3" column="0" />
       </file>
@@ -983,7 +996,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJZmlsZTogJy4uLy4uL2F1ZGlvL2NoYWdhbGlhLm1wMycsCg==</text>
+        <text encoding="base64">bW9uZ29vc2UuY29ubmVjdCgnbW9uZ29kYjovL2xvY2FsaG9zdC9ub2RlYXV0aCcpOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1015,7 +1028,7 @@
         <text>less</text>
       </register>
       <register name="-" type="4">
-        <text>crayolas</text>
+        <text>index</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1030,37 +1043,37 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text>crayolas</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJZmlsZTogJy4uLy4uL2F1ZGlvL2NhZGFwYXNvLm1wMycsCg==</text>
+      <register name="2" type="4">
+        <text>index</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJZmlsZTogJy4uLy4uL2F1ZGlvL2NoYWdhbGlhLm1wMycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJZmlsZTogJy4uLy4uL2F1ZGlvL2NyYXlvbGFzLm1wMycsCg==</text>
+        <text encoding="base64">bW9uZ29vc2UuY29ubmVjdCgnbW9uZ29kYjovL2xvY2FsaG9zdC9ub2RlYXV0aCcpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>_</text>
+        <text>i</text>
       </register>
-      <register name="4" type="4">
-        <text>ciudad</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpKGNsYXNzPSh0aXRsZSA9PSAnbWVtYmVycycgPyAnYWN0aXZlJyA6ICcnKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhKGhyZWY9Jy8nKSBNZW1iZXJzCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
       <register name="9" type="4">
-        <text>lucia</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>u</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
