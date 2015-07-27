@@ -296,11 +296,11 @@
         <mark key="." line="7" column="17" />
         <mark key="[" line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/nodeauth/routes/index.js" timestamp="1437958532650">
-        <mark key="]" line="17" column="43" />
-        <mark key="^" line="17" column="43" />
-        <mark key="." line="17" column="43" />
-        <mark key="[" line="17" column="43" />
+      <file name="$USER_HOME$/dev/nodeauth/routes/index.js" timestamp="1437961079632">
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="[" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/dev/angular-cms/app/templates/create-post.html" timestamp="1427600446006">
         <mark key="]" line="5" column="73" />
@@ -712,11 +712,11 @@
         <mark key="." line="17" column="15" />
         <mark key="[" line="17" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/nodeauth/views/images.jade" timestamp="1437958031184">
-        <mark key="]" line="8" column="9" />
-        <mark key="^" line="8" column="9" />
-        <mark key="." line="8" column="9" />
-        <mark key="[" line="7" column="55" />
+      <file name="$USER_HOME$/dev/nodeauth/views/images.jade" timestamp="1437960798473">
+        <mark key="]" line="18" column="30" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+        <mark key="[" line="18" column="25" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/templates/home.html" timestamp="1428275437599">
         <mark key="]" line="2" column="22" />
@@ -994,8 +994,8 @@
       <jump line="25" column="12" filename="$USER_HOME$/dev/maine/app/js/services/disco.srv.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1027,7 +1027,7 @@
         <text>less</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>-</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1041,38 +1041,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="4">
-        <text>s</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBpZihyZXEuYm9keS4pCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICByZXMucmVuZGVyCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>-</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cm91dGVyLmdldCgnL2ltYWdlcycsIGF1dGguZW5zdXJlQXV0aGVudGljYXRlZCwgIGZ1bmN0aW9uKHJlcSwgcmVzLCBuZXh0KSB7CiAgcmVzLnJlbmRlcignaW1hZ2VzJywgeyB0aXRsZTogJ0ltYWdlcycgfSk7Cn0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGg0IFRhbWHDsW8gZGUgbGEgaW1hZ2VuCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>archivo</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>File was uploaded</text>
       </register>
-      <register name="5" type="4">
-        <text>foto</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="4">
-        <text>foto</text>
+        <text>small</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
-      <register name="9" type="4">
-        <text>ensureAuthenticated</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text>Tamaño de la imagen</text>
       </register>
     </registers>
     <search>
