@@ -724,11 +724,11 @@
         <mark key="." line="2" column="22" />
         <mark key="[" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/nodeauth/app.js" timestamp="1437936444136">
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="[" line="17" column="49" />
+      <file name="$USER_HOME$/dev/nodeauth/app.js" timestamp="1437957112770">
+        <mark key="]" line="12" column="48" />
+        <mark key="^" line="12" column="48" />
+        <mark key="." line="12" column="48" />
+        <mark key="[" line="12" column="50" />
       </file>
       <file name="$USER_HOME$/dev/angular-cms/.bowerrc" timestamp="1427321212460">
         <mark key="]" line="1" column="25" />
@@ -995,8 +995,8 @@
       <jump line="25" column="12" filename="$USER_HOME$/dev/maine/app/js/services/disco.srv.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bW9uZ29vc2UuY29ubmVjdCgnbW9uZ29kYjovL2xvY2FsaG9zdC9ub2RlYXV0aCcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1028,7 +1028,7 @@
         <text>less</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>s</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1043,37 +1043,37 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>mongoose</text>
       </register>
-      <register name="2" type="4">
-        <text>index</text>
+      <register name="2" type="2">
+        <text encoding="base64">dmFyIHNlcXVlbGl6ZSA9IHJlcXVpcmUoJ3NlcXVlbGl6ZScpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bW9uZ29vc2UuY29ubmVjdCgnbW9uZ29kYjovL2xvY2FsaG9zdC9ub2RlYXV0aCcpOwo=</text>
+        <text encoding="base64">dmFyIG1vbmdvb3NlID0gcmVxdWlyZSgnbW9uZ29vc2UnKTsK</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>index</text>
       </register>
-      <register name="5" type="4">
-        <text>i</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpKGNsYXNzPSh0aXRsZSA9PSAnbWVtYmVycycgPyAnYWN0aXZlJyA6ICcnKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhKGhyZWY9Jy8nKSBNZW1iZXJzCg==</text>
+      <register name="4" type="4">
+        <text>mongoose</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpKGNsYXNzPSh0aXRsZSA9PSAnbWVtYmVycycgPyAnYWN0aXZlJyA6ICcnKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhKGhyZWY9Jy8nKSBNZW1iZXJzCg==</text>
       </register>
     </registers>
     <search>
