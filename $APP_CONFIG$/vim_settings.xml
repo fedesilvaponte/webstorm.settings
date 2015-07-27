@@ -296,11 +296,10 @@
         <mark key="." line="7" column="17" />
         <mark key="[" line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/nodeauth/routes/index.js" timestamp="1437961079632">
-        <mark key="]" line="18" column="23" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-        <mark key="[" line="18" column="23" />
+      <file name="$USER_HOME$/dev/nodeauth/routes/index.js" timestamp="1437964658658">
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="[" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/dev/angular-cms/app/templates/create-post.html" timestamp="1427600446006">
         <mark key="]" line="5" column="73" />
@@ -994,8 +993,8 @@
       <jump line="25" column="12" filename="$USER_HOME$/dev/maine/app/js/services/disco.srv.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1027,7 +1026,7 @@
         <text>less</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1041,38 +1040,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBpZihyZXEuYm9keS4pCg==</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="4">
-        <text>-</text>
+      <register name="2" type="2">
+        <text encoding="base64">cm91dGVyLmdldCgnL2ltYWdlcycsIGF1dGguZW5zdXJlQXV0aGVudGljYXRlZCwgZnVuY3Rpb24gKHJlcSwgcmVzLCBuZXh0KSB7CiAgcmVzLnJlbmRlcignbGlzdC1pbWFnZXMnKTsKfSk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGg0IFRhbWHDsW8gZGUgbGEgaW1hZ2VuCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>archivo</text>
+        <text>'</text>
       </register>
-      <register name="6" type="4">
-        <text>File was uploaded</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICByZXMucmVkaXJlY3QK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="4">
-        <text>small</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text>Tamaño de la imagen</text>
+        <text>g</text>
       </register>
     </registers>
     <search>
