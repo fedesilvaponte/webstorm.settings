@@ -296,11 +296,11 @@
         <mark key="." line="7" column="17" />
         <mark key="[" line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/nodeauth/routes/index.js" timestamp="1437936366668">
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="19" />
-        <mark key="[" line="10" column="14" />
+      <file name="$USER_HOME$/dev/nodeauth/routes/index.js" timestamp="1437958532650">
+        <mark key="]" line="17" column="43" />
+        <mark key="^" line="17" column="43" />
+        <mark key="." line="17" column="43" />
+        <mark key="[" line="17" column="43" />
       </file>
       <file name="$USER_HOME$/dev/angular-cms/app/templates/create-post.html" timestamp="1427600446006">
         <mark key="]" line="5" column="73" />
@@ -638,7 +638,7 @@
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1437630037305">
+      <file name="/JavaScript Console" timestamp="1437958064016">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/grunt-tasks/connect.js" timestamp="1428074615132">
@@ -712,11 +712,11 @@
         <mark key="." line="17" column="15" />
         <mark key="[" line="17" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/nodeauth/views/images.jade" timestamp="1437936349485">
-        <mark key="]" line="5" column="5" />
-        <mark key="^" line="5" column="5" />
-        <mark key="." line="5" column="5" />
-        <mark key="[" line="5" column="4" />
+      <file name="$USER_HOME$/dev/nodeauth/views/images.jade" timestamp="1437958031184">
+        <mark key="]" line="8" column="9" />
+        <mark key="^" line="8" column="9" />
+        <mark key="." line="8" column="9" />
+        <mark key="[" line="7" column="55" />
       </file>
       <file name="$USER_HOME$/dev/fsFrontend/app/templates/home.html" timestamp="1428275437599">
         <mark key="]" line="2" column="22" />
@@ -724,11 +724,10 @@
         <mark key="." line="2" column="22" />
         <mark key="[" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/nodeauth/app.js" timestamp="1437957112770">
-        <mark key="]" line="12" column="48" />
-        <mark key="^" line="12" column="48" />
-        <mark key="." line="12" column="48" />
-        <mark key="[" line="12" column="50" />
+      <file name="$USER_HOME$/dev/nodeauth/app.js" timestamp="1437957498354">
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/angular-cms/.bowerrc" timestamp="1427321212460">
         <mark key="]" line="1" column="25" />
@@ -995,8 +994,8 @@
       <jump line="25" column="12" filename="$USER_HOME$/dev/maine/app/js/services/disco.srv.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1043,37 +1042,37 @@
         </keys>
       </register>
       <register name="3" type="4">
-        <text>mongoose</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">dmFyIHNlcXVlbGl6ZSA9IHJlcXVpcmUoJ3NlcXVlbGl6ZScpOwo=</text>
-      </register>
-      <register name="1" type="4">
         <text>s</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICByZXMucmVuZGVyCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyIG1vbmdvb3NlID0gcmVxdWlyZSgnbW9uZ29vc2UnKTsK</text>
+        <text encoding="base64">cm91dGVyLmdldCgnL2ltYWdlcycsIGF1dGguZW5zdXJlQXV0aGVudGljYXRlZCwgIGZ1bmN0aW9uKHJlcSwgcmVzLCBuZXh0KSB7CiAgcmVzLnJlbmRlcignaW1hZ2VzJywgeyB0aXRsZTogJ0ltYWdlcycgfSk7Cn0pOwo=</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>index</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>foto</text>
       </register>
       <register name="4" type="4">
-        <text>mongoose</text>
+        <text>foto</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>ensureAuthenticated</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpKGNsYXNzPSh0aXRsZSA9PSAnbWVtYmVycycgPyAnYWN0aXZlJyA6ICcnKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhKGhyZWY9Jy8nKSBNZW1iZXJzCg==</text>
+      <register name="8" type="4">
+        <text>,</text>
       </register>
     </registers>
     <search>
